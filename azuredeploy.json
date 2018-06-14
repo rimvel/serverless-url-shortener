@@ -10,14 +10,14 @@
     },
     "fallbackUrl": {
       "type": "string",
-      "defaultValue": "https://blog.jeremylikness.com/?utm_source=jelikness&utm_medium=github&utm_campaign=url_shortener",
+      "defaultValue": "https://dada.lt/",
       "metadata": {
         "description": "The URL to fallback to if the short URL is invalid or not found"
       }
     },
     "utmSource": {
       "type": "string",
-      "defaultValue": "jeliknes",
+      "defaultValue": "dadaltshortener",
       "metadata": {
         "description": "UTM_SOURCE for appending to end of URL for tracking"
       }
@@ -37,7 +37,7 @@
     },
     "sourceCodeRepositoryURL": {
       "type": "string",
-      "defaultValue": "https://github.com/JeremyLikness/serverless-url-shortener",
+      "defaultValue": "https://github.com/rimvel/serverless-url-shortener",
       "metadata": {
         "description": "Source code repository URL"
       }
